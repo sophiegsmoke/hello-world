@@ -1,2 +1,5 @@
 # hello-world
-hi this is sophie and i'm a junior
+
+hi this is sophie
+
+im a junior at madison
